@@ -1,4 +1,4 @@
-# classe2-mini-site-php
+# classe1-mini-site-php
 
 Petit site de démonstration avec un tableau comme données
 
